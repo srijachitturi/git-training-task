@@ -1,2 +1,3 @@
 Company Name: SRI Ltd
 Location: Hyderabad
+About: We provide IT training and placements.
